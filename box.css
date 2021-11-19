@@ -1,0 +1,9 @@
+div.vc_info_box_hvr_shadow {
+	box-shadow: 0 10px 55px 5px rgb(192, 174, 139);
+
+}
+
+
+div.vc_info_box_hvr_shadow:hover {
+	box-shadow: 0 10px 55px 5px rgb(192, 174, 139) !important;
+}
